@@ -1,0 +1,14 @@
+{
+  "name": "specs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "food_spec.js",
+  "scripts": {
+    "test": "mocha hero_spec.js food_spec.js rat_spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
